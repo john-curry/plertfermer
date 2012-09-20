@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\white.xnb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bgnd.xnb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\smith.xnb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ladder.xnb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ground.xnb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\death.xnb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font.xnb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font2.xnb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
