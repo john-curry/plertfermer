@@ -12,3 +12,17 @@ C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\Reso
 C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
 C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\white.xnb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bgnd.xnb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\smith.xnb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ladder.xnb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ground.xnb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\death.xnb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font.xnb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font2.xnb
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb

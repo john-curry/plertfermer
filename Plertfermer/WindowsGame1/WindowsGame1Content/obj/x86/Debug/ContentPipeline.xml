@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\white.xnb</Output>
+      <Output>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\white.xnb</Output>
       <Time>2012-06-25T13:15:38-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bgnd.xnb</Output>
+      <Output>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bgnd.xnb</Output>
       <Time>2012-07-16T16:25:36-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\smith.xnb</Output>
+      <Output>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\smith.xnb</Output>
       <Time>2012-07-16T16:57:06-04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ladder.xnb</Output>
+      <Output>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ladder.xnb</Output>
       <Time>2012-07-16T17:22:56-04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ground.xnb</Output>
+      <Output>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ground.xnb</Output>
       <Time>2012-07-16T18:26:04-04:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\death.xnb</Output>
+      <Output>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\death.xnb</Output>
       <Time>2012-07-16T18:49:38-04:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font.xnb</Output>
+      <Output>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font.xnb</Output>
       <Time>2012-06-28T18:06:24-04:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font2.xnb</Output>
+      <Output>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font2.xnb</Output>
       <Time>2012-06-28T18:53:24-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -79,10 +79,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Acer\Documents\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\users\acer\documents\github\Plertfermer\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
